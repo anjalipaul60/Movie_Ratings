@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing and visualizing movie ratings data from platforms such as IMDb or Rotten Tomatoes using Python. The goal is to clean and preprocess the dataset, perform statistical analysis, and create visualizations to understand rating trends, popular genres, and top-rated movies.
+This project focuses on analyzing and visualizing movie ratings data from platforms such as IMDb using Python. The goal is to clean and preprocess the dataset, perform statistical analysis, and create visualizations to understand rating trends, popular genres, and top-rated movies.
 
 The project demonstrates the use of data analysis and visualization techniques with libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
@@ -58,7 +58,6 @@ The dataset contains information about movies such as:
 Example sources:
 
 * IMDb Dataset
-* Rotten Tomatoes Dataset
 * Kaggle Movie Ratings Dataset
 
 ---
